@@ -1,7 +1,11 @@
 ## 💡 Motivação do projeto
 
-A ideia surgiu com o objetivo de criar uma presença digital para uma loja de brechó, facilitando a divulgação dos produtos e a comunicação com os clientes.
+Este projeto foi desenvolvido para uma amiga que possui uma marca de customização de roupas e acessórios.
 
-Desenvolvi este projeto para colocar em prática meus conhecimentos em desenvolvimento web, explorar novas possibilidades de criação de interfaces e transformar uma necessidade real em uma solução digital.
+A ideia surgiu da oportunidade de utilizar meus conhecimentos em desenvolvimento web para ajudar a dar mais visibilidade ao seu trabalho, criando um espaço digital onde as pessoas pudessem conhecer a marca, explorar os serviços oferecidos e solicitar personalizações.
 
-Além de apresentar a loja, a proposta é proporcionar uma experiência de navegação simples, intuitiva e acessível aos visitantes.
+Foi uma oportunidade de transformar uma necessidade real em uma solução digital, colocando em prática meus conhecimentos, desenvolvendo minha criatividade e adquirindo experiência na criação de um site com propósito.
+
+## 🎯 Objetivo
+
+Desenvolver uma página web que fortaleça a presença digital da marca, facilite a comunicação com os clientes e apresente seus serviços de maneira organizada e profissional.
